@@ -9,14 +9,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
+owner:Abhinay M
+email:i@abhinay.me
+facebook_username:chinnuabhi
 twitter_username:
-github_username:
+github_username:chinnuabhi
 address:
-  - line:
-  - line:
+  - line:Hyderabad, Telangana
+  - line:India
   # Feel free to add more lines here 
 telephone:
 copyright:
